@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is John and I'm a Deep Learning Engineer, from Egypt</h4>
+<h4 align="left">My name is John and I'm an Artificial Intelligence Student, from Egypt</h4>
 
 ###
 

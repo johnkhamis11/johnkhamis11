@@ -29,13 +29,6 @@ Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Data Visual
 
 ---
 
-## 📈 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnkhamis11&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkhamis11&layout=compact&theme=radical)
-
----
-
 ## 📌 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/johnkhamis1/.

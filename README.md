@@ -31,6 +31,6 @@ Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Data Visual
 
 ## 📌 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/johnkhamis1/.
+- 💼 LinkedIn: https://www.linkedin.com/in/johnkhamis1/
 - 📧 Email: johnkhamis539@gmail.com
  

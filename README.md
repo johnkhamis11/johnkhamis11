@@ -5,7 +5,7 @@ I specialize in building smart systems using **Machine Learning**, **Deep Learni
 
 ### 🛠️ Tech Stack
 - **Languages:** Python (Expert), SQL, C++
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **AI/ML:**  Scikit-learn, TensorFlow, PyTorch, Keras
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **CV/NLP:** OpenCV, NLTK, Transformers
 
